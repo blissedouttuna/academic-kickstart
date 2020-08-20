@@ -38,11 +38,11 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Aquaculture Researcher"
   company = "UCSB Bren School"
-  company_url = "https://www.sbcosap.org/"
+  company_url = ""
   location = "California"
   date_start = "2017-12-01"
   date_end = "2018-12-01"
-  description = "Research and draft Best Management Practices (BMPs) and permitting guidance for offshore mussel farming in Southern California."
+  description = "Research and draft Best Management Practices (BMPs) and permitting guidance for offshore mussel farming in Southern California. https://www.sbcosap.org/"
 
   [[experience]]
   title = "Data Scientist"
