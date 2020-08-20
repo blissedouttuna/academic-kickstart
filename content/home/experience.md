@@ -18,27 +18,70 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Aquaculture Scientist"
+  company = "Monterey Bay Aquarium"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
+  date_start = "2019-07-22"
   date_end = ""
-  description = """
+  description = """Evaluating the ecological sustainability of aquaculture production from around the world."""
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Data Analysis
+  * Create Data Infrastructure
+  * Report Writing
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "California Sea Grant Fellow"
+  company = "Monterey Bay Aquarium"
   company_url = ""
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  date_start = "2019-01-01"
+  date_end = "2019-07-21"
+  description = """Selected as a California Sea Grant Fellow with the Monterey Bay Aquarium's Ocean Policy Team."""
+ Responsibilities include:
+  
+  * Research 
+  * Evaluate Policy
+  * Analyze LCA Findings
+  * Report Writing
+  """
+[[experience]]
+  title = "Aquaculture Researcher"
+  company = "UCSB Bren School"
+  company_url = "https://www.sbcosap.org/"
+  location = "California"
+  date_start = "2017-12-01"
+  date_end = "2018-12-01"
+  description = """Research and draft Best Management Practices (BMPs) and permitting guidance for offshore mussel farming in Southern California."""
+ Responsibilities include:
+  
+  * Research 
+  * Website Development
+  * Report Writing
+  """
+  [[experience]]
+  title = "Data Scientist"
+  company = "Hollandia Produce"
+  company_url = ""
+  location = "California"
+  date_start = "2017-12-01"
+  date_end = "2018-06-01"
+  description = """Developed farm management software to forecast harvests and inform sales."""
+ Responsibilities include:
+  
+  * Data Analysis
+  * Data Collection
+  * Report Writing
+  """
+  [[experience]]
+  title = "Data Scientist"
+  company = "National Center for Ecological Analysis and Synthesis (NCEAS)"
+  company_url = ""
+  location = "California"
+  date_start = "2016-09-01"
+  date_end = "2017-04-01"
+  description = """Manage metadata and data files for the Arctic Data Center repository using Rstudio."""
+# Responsibilities include:"""  
 +++
