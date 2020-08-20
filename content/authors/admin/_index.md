@@ -61,9 +61,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 Josh Graybiel is an aquaculture scientist with Seafood Watch at the Monterey Bay Aquarium. His interests include sustainable aquaculture, food systems, data science and conservation technology. His goal is to integrate conservation technology, and data science into seafood systems to help uncover opportunities to improve seafood production and data transparency. 
