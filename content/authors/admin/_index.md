@@ -24,6 +24,7 @@ interests:
 - Aquaculture
 - Data Science
 - Conservation Technology
+- Natural Resources Management
 
 education:
   courses:
@@ -66,6 +67,6 @@ email: ""
 # - Visitors
 ---
 
-Josh Graybiel is an aquaculture scientist with Seafood Watch at the Monterey Bay Aquarium. His interests include sustainable aquaculture, food systems, data science and conservation technology. His goal is to integrate conservation technology, and data science into seafood systems to help uncover opportunities to improve seafood production and data transparency. 
+Uncovering opportunities to improve seafood production and data transparency with conservation technology and data science.
 
 
