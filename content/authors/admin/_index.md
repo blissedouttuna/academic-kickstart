@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: M.S. in Environmental Science and Management
-    institution: University of California Santa Barbara, Bren School
+    institution: The Bren School of Environmental Science & Management, University of California, Santa Barbara
     year: 2018
   - course: BSc in Fisheries and Wildlife
     institution: Michigan State University
