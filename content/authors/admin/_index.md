@@ -67,6 +67,6 @@ email: ""
 # - Visitors
 ---
 
-Uncovering opportunities to improve seafood production and data transparency with conservation technology and data science.
+Uncovering opportunities to improve seafood production with conservation technology and data science.
 
 
