@@ -66,7 +66,6 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-
-Uncovering opportunities to improve seafood production with conservation technology and data science.
+An aquaculture scientiest integrating conservation technology and data science.
 
 
