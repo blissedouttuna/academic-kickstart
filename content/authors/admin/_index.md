@@ -21,10 +21,10 @@ organizations:
 bio: My professional interests include aquaculture, food systems, data science, and conservation technology.
 
 interests:
-- Aquaculture
-- Data Science
-- Conservation Technology
-- Natural Resources Management
+- Marine Conservation
+- Natural Resource Management
+- Food Systems
+- Environmental Justice
 
 education:
   courses:
