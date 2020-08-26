@@ -66,6 +66,6 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-An aquaculture scientiest integrating conservation technology and data science.
+An aquaculture scientist integrating conservation technology and data science.
 
 
